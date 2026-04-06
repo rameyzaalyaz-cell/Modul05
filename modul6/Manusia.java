@@ -1,5 +1,3 @@
-
-
 public class Manusia {
     private String nama;
     private boolean jenisKelamin;
